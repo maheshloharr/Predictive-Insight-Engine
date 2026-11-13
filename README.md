@@ -6,6 +6,11 @@ This project, **Predictive Insight Engine**, is a supervised machine learning pr
 
 The objective is to estimate **house prices in INR** using property characteristics such as house area, bedrooms, bathrooms, location score, property age, and other available attributes.
 
+## Project Explanation Video
+
+[Watch Project Explanation Video](https://drive.google.com/file/d/1n9lGxT1OrVJKVfSVEFpWKfJ9X1FjArCY/view?usp=drive_link)
+
+
 The project covers:
 - Data loading and exploration
 - Exploratory Data Analysis (EDA)
